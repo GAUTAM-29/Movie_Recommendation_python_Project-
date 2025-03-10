@@ -19,11 +19,11 @@ Tagline, Overview, Keywords: +1 point for each match
 Final Recommendation: The program sorts the movies by score and displays the Top 10 Best Matches. If no exact matches are found, it suggests top-rated movies from the chosen genre.
 
 # Features
-• Two Input Methods (GUI-based and dictionary-based)
-• User-friendly Interface (Tkinter-based dropdowns & text inputs)
-• Smart Matching (Ignores case differences & minor variations)
-• Flexible Filtering (Supports multiple input types like actors, genres, and keywords)
-• Works on CSV Data (Easy to update with a new dataset)
+1. Two Input Methods (GUI-based and dictionary-based)
+2. User-friendly Interface (Tkinter-based dropdowns & text inputs)
+3. Smart Matching (Ignores case differences & minor variations)
+4. Flexible Filtering (Supports multiple input types like actors, genres, and keywords)
+5. Works on CSV Data (Easy to update with a new dataset)
 
 # Requirement to run this code
 1. python
